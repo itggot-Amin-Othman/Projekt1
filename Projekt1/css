@@ -1,0 +1,10 @@
+wrapper {
+  display: grid;
+  max-height: 640px;
+  grid-template-rows: repeat(16, 1fr);
+  grid-template-columns: repeat(2, 1fr):
+}
+
+.nav {
+  
+}
